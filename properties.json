@@ -1,0 +1,6 @@
+{
+	"mongoServer":"mongodb://heroku_zdmr4hx2:hmglet3qgsvvdarna0om6fm4pc@ds151853.mlab.com:51853/heroku_zdmr4hx2",	
+	"mongoDb": "heroku_zdmr4hx2",
+	"stellarServer":"https://horizon-testnet.stellar.org",
+	"isTestNetwork":true
+}
