@@ -2,7 +2,7 @@
 
 ## Running Locally
 
-Make sure you have [Node.js](http://nodejs.org/)installed.
+Make sure you have [Node.js](http://nodejs.org/) installed.
 
 ```sh
 $ git clone https://github.com/azzuarezh/stellar-server-node.git # or clone your own fork
