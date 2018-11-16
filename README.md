@@ -10,7 +10,9 @@ $ cd stellar-server-node
 $ npm install
 $ node index.js
 ```
+Now your app should now be running on [localhost:5000](http://localhost:5000/).
 # API Endpoint
 # MongoDB Database
+# Stellar Horizon API
 
-Your app should now be running on [localhost:5000](http://localhost:5000/).
+
