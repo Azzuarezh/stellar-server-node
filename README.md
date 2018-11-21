@@ -63,7 +63,7 @@ Now your app should now be running on [localhost:5000](http://localhost:5000/).
     Example ``Public Key``  : GBRCNMR3YKT326SGJ64IFDQDHCWY3HQOFBLCTPCAB74U4VMBTWNYGM4O
     
 - ### GET('/getBalance', ``Account``)
-    Public Key :  ``object`` Account Properties which need to know to check available balance  
+    Public Key :  ``String`` Account Properties which need to know to check available balance  
     Example ``Public Key``  : GBRCNMR3YKT326SGJ64IFDQDHCWY3HQOFBLCTPCAB74U4VMBTWNYGM4O
 
 
