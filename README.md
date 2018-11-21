@@ -70,7 +70,14 @@ Now your app should now be running on [localhost:5000](http://localhost:5000/).
 
 # MongoDB Database
 
+Mongo Driver url located at ``properties.json`` in project folder with key : ``mongoServer`` and ``mongoDb``
+There is only one table in database named ``user``. The table save information about user account in the app
+
 
 # Stellar Horizon API
+For full documentation about Horizon, you can refer to this [link](https://www.stellar.org/developers/reference/).  
+### Set network stellar
+The property to switch stellar network located at ``properties.json`` in project folder with key : ``stellarServer`` and ``isTestNetwork`` to use the main network, change the stellar server to the main environment and set the ``isTestNetwork`` to `false`
+
 
 
